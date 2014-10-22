@@ -1,4 +1,4 @@
-name             "hipsnip-jetty"
+name             "jetty"
 maintainer       "HipSnip Limited"
 maintainer_email "adam@hipsnip.com/remy@hipsnip.com"
 license          "Apache 2.0"
